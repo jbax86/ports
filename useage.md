@@ -2,6 +2,8 @@
 
 **how to get this working**
 
+Download vcpkg and install it once thats done copy the folders in this repo into the ports folder of vcpkg repo edit details down below to freeze at your prefered commit.
+
 To get a custom commit working you need to do a few things for each port file
 
 1. change the ref to the ref from a commits archive.
